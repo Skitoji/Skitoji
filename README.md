@@ -25,9 +25,6 @@ I enjoy working on small projects and experiments where I can practice, learn, a
 
 ---
 
-> This profile is focused on learning, experimenting, and building things from scratch — clean, simple, and intentional.
-
-
 <!--
 **Skitoji/Skitoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
