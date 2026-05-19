@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I’m **Samuel**, a **Design Hipermedia student** based in **Colombia 🇨🇴**. I’m currently learning programming as a **hobby**, mixing design and code to build clear, organized, and visually pleasing projects.
+I’m **Samuel**, a ** student** based in **Colombia 🇨🇴**. I’m currently learning programming as a **hobby**, mixing design and code to build clear, organized, and visually pleasing projects.
 
 I enjoy working on small projects and experiments where I can practice, learn, and improve step by step. This GitHub is my personal space to document that journey.
 
